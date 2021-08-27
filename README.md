@@ -25,8 +25,9 @@
 |-----|---------|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trrapp12&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trrapp12&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|
 
+<br/>
 ---
-<br />
+
 
 ### Languages and Tools:
 
@@ -44,7 +45,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 ---
-<br />
+<br/>
 
 ### My Favorite Projects
 
