@@ -1,5 +1,16 @@
+### Hi! I'm Trevor
 
-Here are some ideas to get you started:
+Professional History: 
+- I have 6 kids!
+- I love BJJ, Muay Thai, Boxing, and MMA
+- more cool things
+- more cool things
+- more cool things
+
+<br>
+<br>
+
+### Fun things about me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<br>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trrapp12?count_private=true&count_private=true&show_icons=true)](https://github.com/trrapp12/github-readme-stats)
