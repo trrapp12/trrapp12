@@ -1,11 +1,12 @@
 ![Header Image](https://user-images.githubusercontent.com/11747875/131067574-d564c5f2-f9c9-48ad-8441-3848c282ef1a.jpg)
 
+<br>
 
 > " The impediment to action advances action. 
 > What stands in the way becomes the way." 
 > 
 > -- Marcus Aurelius
----
+
 <br>
 
 ### Fun things about me:
@@ -25,7 +26,7 @@
 |-----|---------|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trrapp12&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trrapp12&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|
 
-<br/>
+<br>
 
 ---
 
@@ -45,7 +46,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 ---
-<br/>
+<br>
 
 ### My Favorite Projects
 
