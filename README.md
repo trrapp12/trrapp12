@@ -1,10 +1,12 @@
 ![Header Image](https://user-images.githubusercontent.com/11747875/131067574-d564c5f2-f9c9-48ad-8441-3848c282ef1a.jpg)
 
-### 
+### Motto
 
 > The impediment to action advances action. 
 > What stands in the way becomes the way.
 
+<br>
+<br>
 ### Fun things about me:
 
 - 🔭 I’m currently working on ...
