@@ -17,8 +17,6 @@
 - 😄 Pronouns: ... are great!  I also love nouns, verbs, adjectives(probably one of my favorites), adverbs, prepositions, conjunctions, and interjections.  Basically a Bibliophile! 
 - ⚡ Fun fact: ... I love photography and writing, but I also love MMA, BJJ, Muay Thai, and Boxing.
 
----
-
 <br>
 
 |Stats|Languages|
