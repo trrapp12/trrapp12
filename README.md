@@ -1,18 +1,7 @@
-### Hi! I'm Trevor
+### 
 
 > The impediment to action advances action. 
 > What stands in the way becomes the way.
-
-
-Professional History: 
-- I have 6 kids!
-- I love BJJ, Muay Thai, Boxing, and MMA
-- more cool things
-- more cool things
-- more cool things
-
-<br>
-<br>
 
 ### Fun things about me:
 
