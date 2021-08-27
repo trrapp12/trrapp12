@@ -21,6 +21,7 @@
 - ⚡ Fun fact: ... I love photography and writing, but I also love MMA, BJJ, Muay Thai, and Boxing.
 
 <br>
+
 ### My Coding Life in Numbers
 
 |Stats|Languages|
