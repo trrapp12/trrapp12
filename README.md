@@ -5,6 +5,7 @@
 
 <br>
 <br>
+
 ### Fun things about me:
 
 - 🔭 I’m currently working on ... a Data Analytics certificate from Google and refactoring old projects to enhance my skills in JS, HTML5, CSS3.  
@@ -59,10 +60,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=CSS_JS_clock&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=more-angular-directives&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=angular&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<br>
-<br>
-
-
-
