@@ -2,8 +2,8 @@
 
 > The impediment to action advances action. 
 > What stands in the way becomes the way.
-
-<br>
+> 
+---
 <br>
 
 ### Fun things about me:
@@ -17,13 +17,15 @@
 - 😄 Pronouns: ... are great!  I also love nouns, verbs, adjectives(probably one of my favorites), adverbs, prepositions, conjunctions, and interjections.  Basically a Bibliophile! 
 - ⚡ Fun fact: ... I love photography and writing, but I also love MMA, BJJ, Muay Thai, and Boxing.
 
-<br>
+---
+
 <br>
 
 |Stats|Languages|
 |-----|---------|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trrapp12&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trrapp12&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|
-<br />
+
+---
 <br />
 
 ### Languages and Tools:
@@ -41,7 +43,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br />
+---
 <br />
 
 ### My Favorite Projects
