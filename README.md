@@ -12,14 +12,36 @@
 
 ### Fun things about me:
 
-- 🔭 I’m currently working on ... a Data Analytics certificate from Google and refactoring old projects to enhance my skills in JS, HTML5, CSS3.  <br>
-- 🌱 I’m currently learning ... Data Analytics, Google Tag Manager, SQL, Google Analytics 4. <br>
-- 👯 I’m looking to collaborate on ... front-end, visualization, or data oriented projects.<br>
-- 🤔 I’m looking for help with ... building knowledge and a professional network.<br>
-- 💬 Ask me about ... DOM manipulation for GTM listeners.<br>
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/trevor-rapp/) or <trrapp@gmail.com><br>
-- 😄 Pronouns: ... are great!  I also love nouns, verbs, adjectives(probably one of my favorites), adverbs, prepositions, conjunctions, and interjections.  Basically a Bibliophile! <br>
-- ⚡ Fun fact: ... I love photography and writing, but I also love MMA, BJJ, Muay Thai, and Boxing.<br>
+- 🔭 I’m currently working on ... a Data Analytics certificate from Google and refactoring old projects to enhance my skills in JS, HTML5, CSS3.  
+<br>
+
+- 🌱 I’m currently learning ... Data Analytics, Google Tag Manager, SQL, Google Analytics 4. 
+
+<br>
+
+- 👯 I’m looking to collaborate on ... front-end, visualization, or data oriented projects.
+
+<br>
+
+- 🤔 I’m looking for help with ... building knowledge and a professional network.
+
+<br>
+
+- 💬 Ask me about ... DOM manipulation for GTM listeners.
+
+<br>
+
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/trevor-rapp/) or <trrapp@gmail.com>
+
+<br>
+
+- 😄 Pronouns: ... are great!  I also love nouns, verbs, adjectives(probably one of my favorites), adverbs, prepositions, conjunctions, and interjections.  Basically a Bibliophile! 
+
+<br>
+
+- ⚡ Fun fact: ... I love photography and writing, but I also love MMA, BJJ, Muay Thai, and Boxing.
+
+<br>
 
 <br>
 
