@@ -65,6 +65,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=calculator&theme=github_dark)](https://trrapp12-ironyard.github.io/calculator/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=CSS_JS_clock&theme=github_dark)](https://trrapp12-ironyard.github.io/CSS_JS_clock/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=flex-box&theme=github_dark)](https://trrapp12-ironyard.github.io/flex-box/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=snare_drum&theme=github_dark)](https://trrapp12.github.io/snare_drum/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=more-angular-directives&theme=github_dark)](https://trrapp12-ironyard.github.io/more-angular-directives/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=angular&theme=github_dark)](https://trrapp12-ironyard.github.io/angular/)
+
