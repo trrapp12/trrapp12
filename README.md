@@ -54,7 +54,7 @@
 
 ---
 
-### My Favorite Projects
+### Portfolio: check 'em out.  They're pretty cool!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Nasa_Photo_Get_Request&theme=github_dark)](https://trrapp12.github.io/Nasa_Photo_Get_Request/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Product-Page&theme=github_dark)](https://trrapp12.github.io/Product-Page/)
