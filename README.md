@@ -18,7 +18,6 @@
 - 🤔 I’m looking for help with ... building knowledge and a professional network.
 - 💬 Ask me about ... DOM manipulation for GTM listeners.
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/trevor-rapp/) or <trrapp@gmail.com>
-- 😄 Pronouns: ... are great!  I also love nouns, verbs, adjectives (probably one of my favorites), adverbs, prepositions, conjunctions, and interjections.  Basically a Bibliophile! 
 - ⚡ Fun fact: ... I love photography and writing, but I also love MMA, BJJ, Muay Thai, and Boxing.
 
 <br>
