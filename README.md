@@ -73,7 +73,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=wk-01-alpha&theme=github_dark)](https://trrapp12.github.io/wk-01-alpha/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=parallax-example&theme=github_dark)](http://trrapp12.github.io/parallax-example/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=calculator&theme=github_dark)](https://trrapp12.github.io/calculator/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=CSS_JS_clock&theme=github_dark)](https://trrapp12-ironyard.github.io/CSS_JS_clock/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=CSS_JS_clock&theme=github_dark)](https://trrapp12.github.io/CSS_JS_clock/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=CountDownTimer&theme=github_dark)](https://trrapp12.github.io/CountDownTimer/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=konami&theme=github_dark)](https://github.com/trrapp12-ironyard/konami)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=calculator&theme=github_dark)](https://trrapp12-ironyard.github.io/calculator/)
