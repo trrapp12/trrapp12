@@ -10,7 +10,9 @@
 <br>
 <br>
 
+
 ### Fun things about me:
+
 
 - 🔭 I’m currently working on ... a Data Analytics certificate from Google and refactoring old projects to enhance my skills in JS, HTML5, CSS3.  
 - 🌱 I’m currently learning ... Data Analytics, Google Tag Manager, SQL, Google Analytics 4. 
@@ -24,7 +26,9 @@
 
 <br>
 
+
 ### My Coding Life in Numbers
+
 
 |Languages|Statistics|
 |-----|---------|
