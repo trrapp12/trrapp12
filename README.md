@@ -67,6 +67,7 @@
 
 ### Portfolio: check 'em out.  They're pretty cool!
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=konami&theme=github_dark)](https://github.com/trrapp12-ironyard/konami)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Slap-Happy&theme=github_dark)](https://trrapp12.github.io/Slap-Happy/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=avengers_agents_of_shield_directory&theme=github_dark)](http://trrapp12.github.io/avengers_agents_of_shield_directory/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=diana-tribute&theme=github_dark)](https://www.dianarapp.com/)
@@ -75,6 +76,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=survey-form&theme=github_dark)](https://trrapp12.github.io/survey-form/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Sundae-Worship&theme=github_dark)](https://trrapp12.github.io/Sundae-Worship/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=parallax-example&theme=github_dark)](http://trrapp12.github.io/parallax-example/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=konami&theme=github_dark)](https://github.com/trrapp12-ironyard/konami)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=hang_man&theme=github_dark)](https://trrapp12.github.io/hang_man/)
+
+
 
