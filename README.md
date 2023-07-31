@@ -58,6 +58,10 @@
 
 <br>
 
+---
+
+
+<br>
 
 ---
 
@@ -65,7 +69,7 @@
 <br>
 
 
-### Portfolio: check 'em out.  They're pretty cool!
+### Top Ten of my Github Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=konami&theme=github_dark)](https://github.com/trrapp12-ironyard/konami)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Slap-Happy&theme=github_dark)](https://trrapp12.github.io/Slap-Happy/)
