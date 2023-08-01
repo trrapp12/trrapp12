@@ -79,6 +79,7 @@
 
 ![timer counting down from 10](https://user-images.githubusercontent.com/11747875/257372930-f16a8a84-a653-4b39-8002-c6033ec6833e.gif)
 
+<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=dice-game&theme=github_dark)](https://trrapp12.github.io/dice-game/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=konami&theme=github_dark)](https://github.com/trrapp12-ironyard/konami)
