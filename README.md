@@ -75,14 +75,15 @@ https://tourmaline-medovik-1e81f3.netlify.app/
 
 ![timer counting down from 10](https://user-images.githubusercontent.com/11747875/257372930-f16a8a84-a653-4b39-8002-c6033ec6833e.gif)
 
-|    |    |
-|----|----|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=dice-game&theme=github_dark)](https://trrapp12.github.io/dice-game/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=konami&theme=github_dark)](https://github.com/trrapp12-ironyard/konami) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=avengers_agents_of_shield_directory&theme=github_dark)](http://trrapp12.github.io/avengers_agents_of_shield_directory/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=password-maker&theme=github_dark)] (https://trrapp12.github.io/password-maker/) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=bible-conversion-tool&theme=github_dark)](https://github.com/trrapp12/bible-conversion-tool) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Trevor-Rapp-Electronic-Business-Card&theme=github_dark)](https://github.com/trrapp12/Trevor-Rapp-Electronic-Business-Card) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Slap-Happy&theme=github_dark)](https://trrapp12.github.io/Slap-Happy/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Technical-Documentation-Page&theme=github_dark)](https://trrapp12.github.io/Technical-Documentation-Page/) |
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=dice-game&theme=github_dark)](https://trrapp12.github.io/dice-game/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=konami&theme=github_dark)](https://github.com/trrapp12-ironyard/konami)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=avengers_agents_of_shield_directory&theme=github_dark)](http://trrapp12.github.io/avengers_agents_of_shield_directory/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=password-maker&theme=github_dark)] (https://trrapp12.github.io/password-maker/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=bible-conversion-tool&theme=github_dark)](https://github.com/trrapp12/bible-conversion-tool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Trevor-Rapp-Electronic-Business-Card&theme=github_dark)](https://github.com/trrapp12/Trevor-Rapp-Electronic-Business-Card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Slap-Happy&theme=github_dark)](https://trrapp12.github.io/Slap-Happy/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Technical-Documentation-Page&theme=github_dark)](https://trrapp12.github.io/Technical-Documentation-Page/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Product-Page&theme=github_dark)](https://trrapp12.github.io/Product-Page/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Invoice-Creator&theme=github_dark)](https://github.com/trrapp12/Invoice-Creator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=survey-form&theme=github_dark)](https://trrapp12.github.io/survey-form/)
