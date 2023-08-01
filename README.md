@@ -74,6 +74,7 @@ https://tourmaline-medovik-1e81f3.netlify.app/
 
 <br>
 
+![timer counting down from 10](https://user-images.githubusercontent.com/11747875/257372930-f16a8a84-a653-4b39-8002-c6033ec6833e.gif)
 
 ### Top Ten of my Github Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=dice-game&theme=github_dark)](https://trrapp12.github.io/dice-game/)
