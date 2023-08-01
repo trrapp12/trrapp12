@@ -15,11 +15,11 @@
 
 
 - 🔭 I’m currently working on ... a Data Analytics certificate from Google and refactoring old projects to enhance my skills in JS, HTML5, CSS3.  
-- 🌱 I’m currently learning ... Data Analytics, Google Tag Manager, SQL, Google Analytics 4. 
+- 🌱 I’m currently learning ... React, React-Router, CSS-in-JS solutions, styled-components. 
 - 👯 I’m looking to collaborate on ... front-end, visualization, or data oriented projects.
 - 🤔 I’m looking for help with ... building knowledge and a professional network.
-- 💬 Ask me about ... DOM manipulation for GTM listeners.
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/trevor-rapp/) or <trrapp@gmail.com>
+- 💬 Ask me about ... DOM manipulation and DOM traversing.
+- 📫 How to reach me: ...<trrapp@gmail.com>
 - ⚡ Fun fact: ... I love photography and writing, but I also love MMA, BJJ, Muay Thai, and Boxing.
 
 <br>
