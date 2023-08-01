@@ -77,7 +77,7 @@
 
 ---
 
-### Top Ten of my Github Repositories
+### Top Ten (okay 6) of my best projects
 
 ![timer counting down from 10](https://user-images.githubusercontent.com/11747875/257372930-f16a8a84-a653-4b39-8002-c6033ec6833e.gif)
 
