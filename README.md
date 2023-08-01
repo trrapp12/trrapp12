@@ -62,9 +62,9 @@
 
 ### Top Published Websites/PWA/APis
 
-www.space-rhino.com
-https://github.com/trrapp12/mobile-list-app#:~:text=https%3A//gentle%2Dmonstera%2D8c285d.netlify.app/
-www.dianarapp.com
+[Space Rhino](www.space-rhino.com)
+[checkOUT](https://gentle-monstera-8c285d.netlify.app/)
+[Diana Rapp](www.dianarapp.com)
 https://tourmaline-medovik-1e81f3.netlify.app/
 
 <br>
