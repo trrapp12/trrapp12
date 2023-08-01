@@ -60,6 +60,12 @@
 
 ---
 
+### Top Published Websites/PWA/APis
+
+www.space-rhino.com
+https://github.com/trrapp12/mobile-list-app#:~:text=https%3A//gentle%2Dmonstera%2D8c285d.netlify.app/
+www.dianarapp.com
+https://tourmaline-medovik-1e81f3.netlify.app/
 
 <br>
 
@@ -71,15 +77,19 @@
 
 ### Top Ten of my Github Repositories
 
+https://trrapp12.github.io/dice-game/
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=konami&theme=github_dark)](https://github.com/trrapp12-ironyard/konami)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Slap-Happy&theme=github_dark)](https://trrapp12.github.io/Slap-Happy/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=avengers_agents_of_shield_directory&theme=github_dark)](http://trrapp12.github.io/avengers_agents_of_shield_directory/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=diana-tribute&theme=github_dark)](https://www.dianarapp.com/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=password-maker&theme=github_dark)](https://trrapp12.github.io/password-maker/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=bible-conversion-tool&theme=github_dark)](https://github.com/trrapp12/bible-conversion-tool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Trevor-Rapp-Electronic-Business-Card&theme=github_dark)](https://github.com/trrapp12/Trevor-Rapp-Electronic-Business-Card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Slap-Happy&theme=github_dark)](https://trrapp12.github.io/Slap-Happy/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Technical-Documentation-Page&theme=github_dark)](https://trrapp12.github.io/Technical-Documentation-Page/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Product-Page&theme=github_dark)](https://trrapp12.github.io/Product-Page/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Invoice-Creator&theme=github_dark)](https://github.com/trrapp12/Invoice-Creator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=survey-form&theme=github_dark)](https://trrapp12.github.io/survey-form/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Sundae-Worship&theme=github_dark)](https://trrapp12.github.io/Sundae-Worship/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=parallax-example&theme=github_dark)](http://trrapp12.github.io/parallax-example/)
+
 
 
 
