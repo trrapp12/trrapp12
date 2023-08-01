@@ -67,7 +67,7 @@
 | Preview | Link |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | <img src="https://user-images.githubusercontent.com/11747875/257380354-8988210a-e856-45dd-bfb9-6fe614076d56.gif" width="622" height="350"/>                                                                    | [Space Rhino](www.space-rhino.com)                            |
-| <img src="https://github.com/trrapp12/mobile-list-app/assets/11747875/c0801bc3-f9fb-4591-a586-88389d7128b2" width="622" height="350"/>                                                                         | [checkOUT](https://gentle-monstera-8c285d.netlify.app/)       | 
+| <img src="https://github.com/trrapp12/mobile-list-app/assets/11747875/c0801bc3-f9fb-4591-a586-88389d7128b2" width="622" height="400"/>                                                                         | [checkOUT](https://gentle-monstera-8c285d.netlify.app/)       | 
 | ![Diana Tribute](https://user-images.githubusercontent.com/11747875/147320882-d0c01554-eadd-4d14-ae76-dd69c66f46a1.gif)                                                                                        | [Diana Rapp](www.dianarapp.com)                               |
 | https://user-images.githubusercontent.com/11747875/218291297-69f36beb-ccfd-4657-832b-f80a25814d69.mp4                                                                                                          | [React Jokes](https://tourmaline-medovik-1e81f3.netlify.app/) |
 
