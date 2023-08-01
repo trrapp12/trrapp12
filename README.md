@@ -66,12 +66,14 @@
 
 | Preview | Link |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| <img src="https://user-images.githubusercontent.com/11747875/257380354-8988210a-e856-45dd-bfb9-6fe614076d56.gif" width="622" height="350"/>                                                                    | [Space Rhino](www.space-rhino.com)                            |
-| <img src="https://github.com/trrapp12/mobile-list-app/assets/11747875/c0801bc3-f9fb-4591-a586-88389d7128b2" width="700" height="350"/>                                                                         | [checkOUT](https://gentle-monstera-8c285d.netlify.app/)       | 
-| ![Diana Tribute](https://user-images.githubusercontent.com/11747875/147320882-d0c01554-eadd-4d14-ae76-dd69c66f46a1.gif)                                                                                        | [Diana Rapp](www.dianarapp.com)                               |
-| ![jokes_AdobeExpress](https://github.com/trrapp12/react-jokes-v2/assets/11747875/d93eb4d9-637a-405f-a0b3-95e48ca116df)                                                                                         | [React Jokes](https://tourmaline-medovik-1e81f3.netlify.app/) |
+| <img src="https://user-images.githubusercontent.com/11747875/257380354-8988210a-e856-45dd-bfb9-6fe614076d56.gif" width="800" height="auto"/>                                                                   | [Space Rhino](www.space-rhino.com)                            |
+| <img src="https://github.com/trrapp12/mobile-list-app/assets/11747875/c0801bc3-f9fb-4591-a586-88389d7128b2" width="800" height="auto"/>                                                                        | [checkOUT](https://gentle-monstera-8c285d.netlify.app/)       | 
+|  <img src="https://user-images.githubusercontent.com/11747875/147320882-d0c01554-eadd-4d14-ae76-dd69c66f46a1.gif" width="800" height="auto"/>                                                                  | [Diana Rapp](www.dianarapp.com)                               |
+| <img src="https://user-images.githubusercontent.com/11747875/257383083-d93eb4d9-637a-405f-a0b3-95e48ca116df.gif" width="800" height="auto"/>                                                                   | [React Jokes](https://tourmaline-medovik-1e81f3.netlify.app/) |
 
-<br>
+
+
+  <br>
 
 ---
 
