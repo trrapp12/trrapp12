@@ -83,7 +83,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=dice-game&theme=github_dark)](https://trrapp12.github.io/dice-game/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=konami&theme=github_dark)](https://github.com/trrapp12-ironyard/konami)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=avengers_agents_of_shield_directory&theme=github_dark)](http://trrapp12.github.io/avengers_agents_of_shield_directory/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=password-maker&theme=github_dark)] (https://trrapp12.github.io/password-maker/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=password-maker&theme=github_dark)](https://trrapp12.github.io/password-maker/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=bible-conversion-tool&theme=github_dark)](https://github.com/trrapp12/bible-conversion-tool)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Trevor-Rapp-Electronic-Business-Card&theme=github_dark)](https://github.com/trrapp12/Trevor-Rapp-Electronic-Business-Card)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=Slap-Happy&theme=github_dark)](https://trrapp12.github.io/Slap-Happy/)
