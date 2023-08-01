@@ -76,8 +76,7 @@ https://tourmaline-medovik-1e81f3.netlify.app/
 
 
 ### Top Ten of my Github Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=dice-game&theme=github_dark)](https://trrapp12.github.io/dice-game/)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=dice-game&theme=github_dark)](https://trrapp12.github.io/dice-game/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12-ironyard&repo=konami&theme=github_dark)](https://github.com/trrapp12-ironyard/konami)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=avengers_agents_of_shield_directory&theme=github_dark)](http://trrapp12.github.io/avengers_agents_of_shield_directory/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trrapp12&repo=password-maker&theme=github_dark)](https://trrapp12.github.io/password-maker/)
