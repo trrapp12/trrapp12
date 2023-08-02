@@ -79,7 +79,7 @@
 
 ### Top Ten (okay 6) of my best projects
 
-<img src="https://user-images.githubusercontent.com/11747875/257372930-f16a8a84-a653-4b39-8002-c6033ec6833e.gif" width="500" height="auto"/>
+<img src="https://user-images.githubusercontent.com/11747875/257372930-f16a8a84-a653-4b39-8002-c6033ec6833e.gif" width="100%" height="auto"/>
 
 <br>
 
