@@ -20,7 +20,7 @@
 - 🤔 I’m looking for help with ... mentoring and a professional network.
 - 💬 Ask me about ... DOM manipulation and DOM traversing.
 - 📫 How to reach me: ...<trrapp@gmail.com> or <https://www.linkedin.com/in/trevor-rapp-89772029b>
-- ⚡ Fun fact: ... I love photography and writing, but I also love MMA, BJJ, Muay Thai, and Boxing.
+- ⚡ Fun fact: ... I love photography and writing, but I also love 🥋 MMA, 🤼 BJJ, Muay Thai, and 🥊 Boxing.
 
 <br>
 
