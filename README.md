@@ -16,7 +16,7 @@
 <a href="mailto:trrapp@gmail.com"><img align="left" src="https://github.com/user-attachments/assets/fdf08bbc-f1f1-46ec-a363-95c444f20ac6" width="50" height="50"></a>
 
 
-
+<br>
 
 ### Fun things about me:
 
