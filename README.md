@@ -14,8 +14,7 @@
 <a href="https://www.linkedin.com/in/trevor-rapp/"><img align="left" src="https://github.com/user-attachments/assets/958267bd-3872-4025-b87f-e08fe7cae97f" width="50" height="50"></a>
 
 <a href="mailto:trrapp@gmail.com"><img align="left" src="https://github.com/user-attachments/assets/fdf08bbc-f1f1-46ec-a363-95c444f20ac6" width="50" height="50"></a>
-
-
+<br>
 <br>
 
 ### Fun things about me:
