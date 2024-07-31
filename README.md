@@ -11,7 +11,7 @@
 <br>
 
 
-  <a href="https://www.linkedin.com/in/trevor-rapp/"><img src="https://private-user-images.githubusercontent.com/11747875/353727190-958267bd-3872-4025-b87f-e08fe7cae97f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI0MDk1MzcsIm5iZiI6MTcyMjQwOTIzNywicGF0aCI6Ii8xMTc0Nzg3NS8zNTM3MjcxOTAtOTU4MjY3YmQtMzg3Mi00MDI1LWI4N2YtZTA4ZmU3Y2FlOTdmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzMxVDA3MDAzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkZTkzNzE3NDMyOTc2NmFjMmFiYWQwNWRjNGQzNGFiYzJhZjIwNTA4ZDgwZDc1YzNlOTlmY2E5ZDVlYzU1NTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.baw9aPsx-_pzZstfuadIYON0OSd2s0HlI_t04LU-X1M" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/trevor-rapp/"><img src="https://github.com/user-attachments/assets/958267bd-3872-4025-b87f-e08fe7cae97f" width="50" height="50"></a>
 
 <a href="mailto:trrapp@gmail.com"><img src="https://github.com/user-attachments/assets/fdf08bbc-f1f1-46ec-a363-95c444f20ac6" width="50" height="50"></a>
 
