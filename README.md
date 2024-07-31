@@ -15,31 +15,6 @@
 <br>
 <br>
 
-### Fun things about me:
-
-
-- 🔭 I’m currently working on ... A/B testing using Adobe Analytics and custom coding solutions to tailor UX/UI experiences without altering enterprise code.  
-- 🌱 I’m currently learning ... React, React-Router, CSS-in-JS solutions, styled-components. 
-- 👯 I’m looking to collaborate on ... front-end, visualization, or data oriented projects.
-- 🤔 I’m looking for help with ... mentoring and a professional network.
-- 💬 Ask me about ... DOM manipulation and DOM traversing.
-- ⚡ Fun fact: ... I love photography and writing, but I also love 🥋 MMA, 🤼 BJJ, Muay Thai, and 🥊 Boxing.
-
-<br>
-
-<br>
-
-
-### My Coding Life in Numbers
-
-
-|Languages|Statistics|
-|-----|---------|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trrapp12&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trrapp12&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|
-
-<br>
-
-
 ---
 
 
@@ -61,8 +36,16 @@
 
 <br>
 
----
+### My Coding Life in Numbers
 
+
+|Languages|Statistics|
+|-----|---------|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trrapp12&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trrapp12&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|
+
+<br>
+
+---
 
 
 ### Top Published Websites/PWA/APis
@@ -71,5 +54,19 @@
 [checkOUT](https://gentle-monstera-8c285d.netlify.app/)       
 [Diana Rapp](www.dianarapp.com)                               
 [React Jokes](https://tourmaline-medovik-1e81f3.netlify.app/) 
+
+### Fun things about me:
+
+
+- 🔭 I’m currently working on ... A/B testing using Adobe Analytics and custom coding solutions to tailor UX/UI experiences without altering enterprise code.  
+- 🌱 I’m currently learning ... React, React-Router, CSS-in-JS solutions, styled-components. 
+- 👯 I’m looking to collaborate on ... front-end, visualization, or data oriented projects.
+- 🤔 I’m looking for help with ... mentoring and a professional network.
+- 💬 Ask me about ... DOM manipulation and DOM traversing.
+- ⚡ Fun fact: ... I love photography and writing, but I also love 🥋 MMA, 🤼 BJJ, Muay Thai, and 🥊 Boxing.
+
+<br>
+
+<br>
 
 ---
