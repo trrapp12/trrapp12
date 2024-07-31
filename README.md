@@ -57,6 +57,10 @@
 [Diana Rapp](www.dianarapp.com)                               
 [React Jokes](https://tourmaline-medovik-1e81f3.netlify.app/) 
 
+<br>
+
+---
+
 ### Fun things about me:
 
 
