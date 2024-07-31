@@ -11,7 +11,7 @@
 <br>
 
 
-<a href="https://www.linkedin.com/in/trevor-rapp/"><img src="https://github.com/user-attachments/assets/958267bd-3872-4025-b87f-e08fe7cae97f" width="50" height="50"></a><a href="mailto:trrapp@gmail.com"><img src="https://github.com/user-attachments/assets/fdf08bbc-f1f1-46ec-a363-95c444f20ac6" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/trevor-rapp/"><img src="https://github.com/user-attachments/assets/958267bd-3872-4025-b87f-e08fe7cae97f" width="50" height="50"></a><a href="mailto:trrapp@gmail.com">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/fdf08bbc-f1f1-46ec-a363-95c444f20ac6" width="50" height="50"></a>
 <br>
 <br>
 
