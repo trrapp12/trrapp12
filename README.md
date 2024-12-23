@@ -1,4 +1,4 @@
-![Photo of Trrapp12](https://github.com/user-attachments/assets/395226df-d550-42c6-96e2-f1d40d128263)
+![AdobeStock_906453658](https://github.com/user-attachments/assets/e7e817d8-05c5-4766-ab07-cc16e5e9cbcb)
 
 <br>
 <br>
