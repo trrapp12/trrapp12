@@ -1,4 +1,4 @@
-![AdobeStock_906453658](https://github.com/user-attachments/assets/e7e817d8-05c5-4766-ab07-cc16e5e9cbcb)
+![Blue Black Geometric Graphic Designer LinkedIn Career Page Background](https://github.com/user-attachments/assets/c8625212-a094-4421-ba68-dc1941424e14)
 
 <br>
 <br>
