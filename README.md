@@ -33,6 +33,8 @@
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Firebase" width="50px" src="https://user-images.githubusercontent.com/11747875/256434836-f9749344-2de1-4596-ad18-60219cf88ae4.png" />
+<img align="left" alt="TypeScript" width="50px" src="https://github.com/user-attachments/assets/35bc114d-63b1-461e-8247-589bbed3309e" />
+<img align="left" alt="Styled Components" width="50px" src="https://github.com/user-attachments/assets/a0ac56c8-c330-4951-aec8-e7ef2c220b49" />
 
 <br>
 
